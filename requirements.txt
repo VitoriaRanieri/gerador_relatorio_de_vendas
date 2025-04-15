@@ -44,4 +44,5 @@ typing_extensions==4.13.1
 tzdata==2025.2
 urllib3==2.3.0
 watchdog==6.0.0
-seaborn==0.11.2
+seaborn==0.13.2
+
